@@ -15,7 +15,7 @@
 /build
 /captures
 
-/buildSrc/build
+/buildSrc/build/
 /buildSrc/.gradle
 
 .externalNativeBuild
